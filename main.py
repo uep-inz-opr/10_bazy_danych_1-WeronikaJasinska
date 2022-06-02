@@ -30,7 +30,3 @@ res = int(''.join(map(str, wynik2)))
 if __name__ == "__main__":
 	print(res)
 
-
-
-if __name__ == "__main__":
-    pass
